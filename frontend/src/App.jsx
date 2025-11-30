@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import './App.css'
 
 // API base URL - configurable for production
-const API_BASE_URL = 'http://localhost:3001';
+const API_BASE_URL = 'https://mini-audit-trail-generator-fuja.onrender.com';
 
 /**
  * Main Application Component
